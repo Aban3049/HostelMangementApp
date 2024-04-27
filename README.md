@@ -1,25 +1,30 @@
 # HostelMangementApp
 Hostel Management System is an innovative platform designed to streamline the complexities of managing a hostel. This application fac
 ilitates efficient room allocation, fee tracking, and maintenance management, all while providing a user-friendly interface for both administrators and residents
-![KhanBoysHostelHome](https://github.com/Aban3049/HostelMangementApp/assets/157634467/5b9025f3-cb93-4a05-a93f-0b5d2e9e1ffa)![KhanHostelWarden](https://github.com/Aban3049/HostelMangementApp/assets/157634467/d3dee88a-54e9-4b6c-85b9-d6787adfc9be)
+![KhanBoysHostelHome](https://github.com/Aban3049/HostelMangementApp/assets/157634467/5b9025f3-cb93-4a05-a93f-0b5d2e9e1ffa)
+![KhanHostelWarden](https://github.com/Aban3049/HostelMangementApp/assets/157634467/d3dee88a-54e9-4b6c-85b9-d6787adfc9be)
 
 ## Features
 - **Room Allocation**: Automated and fair room assignments.
+  
 ![hostelManagementCheckRoom](https://github.com/Aban3049/HostelMangementApp/assets/157634467/2879f087-2757-46d9-86a2-25aad07780ec)
   
 - **Fee and Expense Management**: Transparent tracking of financials.
-  ![hostelManagemeentCharges](https://github.com/Aban3049/HostelMangementApp/assets/157634467/1b21c863-2cdc-4871-88fc-facfbe39b2fd)
+  
+![hostelManagemeentCharges](https://github.com/Aban3049/HostelMangementApp/assets/157634467/1b21c863-2cdc-4871-88fc-facfbe39b2fd)
 
 - **Maintenance Requests**: Easy reporting and status tracking of hostel maintenance issues.
 - **Visitor Log**: Digital log for visitor tracking.
 - **Complaint System**: Quick lodging and resolution of student complaints.
-  ![hostelManagementStudentDashboard](https://github.com/Aban3049/HostelMangementApp/assets/157634467/83f26ce4-faf6-4e5d-9888-c278187744a2)
+  
+![hostelManagementStudentDashboard](https://github.com/Aban3049/HostelMangementApp/assets/157634467/83f26ce4-faf6-4e5d-9888-c278187744a2)
 
 - **Mess Menu**: Weekly mess menu at students' fingertips.
 - **Expense Transparency**: Real-time access to fare and mess expenses.
 - **Room Availability**: Instant updates on room occupancy.
 - **Student Registration**: Digital enrollment and data management of students.
-  ![hostelManagementStudentRegister](https://github.com/Aban3049/HostelMangementApp/assets/157634467/9beeb4fc-3380-41a1-bb10-bffd0447c7ba)
+  
+![hostelManagementStudentRegister](https://github.com/Aban3049/HostelMangementApp/assets/157634467/9beeb4fc-3380-41a1-bb10-bffd0447c7ba)
  
 - **Feedback and Suggestions**: Engage students with a feedback system for continuous improvement.
 
