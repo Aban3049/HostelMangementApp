@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "220149851333",
+    "firebase_url": "https://hostelmanagementsystem-d5aec-default-rtdb.firebaseio.com",
+    "project_id": "hostelmanagementsystem-d5aec",
+    "storage_bucket": "hostelmanagementsystem-d5aec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220149851333:android:aa8ddabb99aa7252abbcac",
+        "android_client_info": {
+          "package_name": "com.example.khanboyshostel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD67awaE096cwVQgCt0S5MdyzVMrLWj48U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220149851333:android:fae5ef6673cab8b5abbcac",
+        "android_client_info": {
+          "package_name": "dex.alpha.HostelManagementSystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD67awaE096cwVQgCt0S5MdyzVMrLWj48U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

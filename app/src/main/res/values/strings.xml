@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KhanBoysHostel</string>
+    <string name="hostel_name">Khan Boys Hostel</string>
+    <string name="hms">Hostel Management System</string>
+    <string name="room_number">Room Number: %1$s</string>
+    <string name="capacity">Capacity: %1$s</string>
+    <string name="beds">Beds: %1$s</string>
+    <string name="room_no">Room No: %1$s</string>
+    <string name="about">🏠 Welcome to Khan Hostel: Your Home Away from Home 🏠Dear Students,We are thrilled to welcome you to Khan Hostel, a place where comfort, convenience, and community converge to create an unparalleled living experience. As you embark on your academic journey, we understand the importance of finding a supportive environment that fosters both personal and academic growth.Thats why at Khan Hostel, we prioritize not only your accommodation needs but also your overall well-being.</string>
+    <string name="contact">Thank you for considering Khan Hostel as your choice!. If you have any questions please don not hesitate to get in touch with us.
+    </string>
+</resources>

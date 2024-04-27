@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="178dp"
+    android:layout_marginBottom="10dp"
+    android:elevation="8dp"
+    app:cardCornerRadius="6dp"
+    app:cardUseCompatPadding="true">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/imageIv"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:layout_marginTop="12dp"
+                android:background="@drawable/ic_image_gray"
+                android:scaleType="centerCrop"
+                android:src="@drawable/dormitory"
+                app:shapeAppearanceOverlay="@style/ImageStyle_circle" />
+
+
+            <TextView
+                android:id="@+id/roomNumberTv"
+                style="@style/TextAppearance.Material3.BodyLarge"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:layout_toEndOf="@+id/imageIv"
+                android:text="Room Number"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                app:layout_constraintStart_toEndOf="@+id/imageIv"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/roomCapacityTV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/roomNumberTv"
+                android:layout_toEndOf="@+id/imageIv"
+                android:text="Room Capacity"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toStartOf="@+id/checkBedBtn"
+                app:layout_constraintTop_toBottomOf="@+id/roomNumberTv" />
+
+            <TextView
+                android:id="@+id/roomBedsTv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/roomCapacityTV"
+                android:layout_toEndOf="@+id/imageIv"
+                android:text="Room Type"
+                android:textSize="16sp"
+                app:layout_constraintStart_toEndOf="@+id/imageIv" />
+
+
+            <TextView
+                android:id="@+id/roomStatusTv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/roomBedsTv"
+                android:layout_marginBottom="5dp"
+                android:layout_toEndOf="@+id/imageIv"
+                android:text="Occupied"
+                android:textSize="16sp"
+                android:visibility="gone" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/checkBedBtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:text="Check Room"
+                app:cornerRadius="8dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent" />
+
+        </RelativeLayout>
+
+
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>
