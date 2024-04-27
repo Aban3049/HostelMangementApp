@@ -1,8 +1,9 @@
 # HostelMangementApp
 Hostel Management System is an innovative platform designed to streamline the complexities of managing a hostel. This application fac
 ilitates efficient room allocation, fee tracking, and maintenance management, all while providing a user-friendly interface for both administrators and residents
+
 ![KhanBoysHostelHome](https://github.com/Aban3049/HostelMangementApp/assets/157634467/5b9025f3-cb93-4a05-a93f-0b5d2e9e1ffa)
-![KhanHostelWarden](https://github.com/Aban3049/HostelMangementApp/assets/157634467/d3dee88a-54e9-4b6c-85b9-d6787adfc9be)
+
 
 ## Features
 - **Room Allocation**: Automated and fair room assignments.
