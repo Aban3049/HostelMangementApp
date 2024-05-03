@@ -48,6 +48,10 @@ To set up the project in Android Studio:
 3. Connect to your Firebase project.
 4. Build and run the application on an emulator or physical device.
 
+### clone the repository to your local machine:
+
+    https://github.com/Aban3049/HostelMangementApp.git
+
 ## Contribution
 We encourage contributions. Please follow our contribution guidelines for a productive collaboration.
 
